@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Meerasrilekha
-- 👀 I’m interested in creating new technology and new trends for changing people's life
-- 🌱 I’m currently learning autodeskrevit..
--
+-🌱I’m currently learning autodeskrevit..
+-Currently exploring all the domains of computer science.
 - 
 
 <!---
